@@ -67,7 +67,7 @@ main {
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-between;
     margin-top: 2rem;
 }
 
@@ -79,7 +79,7 @@ main {
 }
 
 .profile-info {
-    margin-right: 5rem;
+    margin-right: 7rem;
 }
 
 .profile p {
@@ -184,7 +184,7 @@ main {
         transition: 500ms;
         position: absolute;
         left: auto;
-        right: -2.9rem;
+        right: -3.7rem;
         bottom: 5.5rem;
         width: 15rem;
         height: 2.5rem;
