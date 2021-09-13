@@ -137,4 +137,6 @@ I added some hover effects to the share buttons, only to make it look more refin
 - Frontend Mentor - [@hoangnam-nguyen](https://www.frontendmentor.io/profile/hoangnam-nguyen)
 - CodePen - [@hoangnam-nguyen](https://codepen.io/hoangnam-nguyen)
 
+## Acknowledgement
 
+Many thanks to [@Teegamtee](https://www.frontendmentor.io/profile/thulanigamtee) from frontendmentor.io for your very helpful comments!
